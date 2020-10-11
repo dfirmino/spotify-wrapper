@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfirmino/js-tdd.git"
+    "url": "git+https://github.com/dfirmino/spotify-wrapper"
   },
   "nyc": {
     "functions": 80,
