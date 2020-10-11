@@ -1,5 +1,5 @@
 {
-  "name": "js-tdd",
+  "name": "spotify-wrapper",
   "version": "1.0.0",
   "description": "Repositorio com testes",
   "main": "index.js",
@@ -17,8 +17,13 @@
     "functions": 80,
     "lines": 80,
     "check-coverage": true,
-    "reporter": ["text", "html"],
-    "exclude": ["tests/**"]
+    "reporter": [
+      "text",
+      "html"
+    ],
+    "exclude": [
+      "tests/**"
+    ]
   },
   "keywords": [
     "js",
